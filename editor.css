@@ -1,0 +1,10 @@
+.group:focus .group-focus\:flex {
+    display: flex;
+}
+
+#context-menu {
+    z-index: 1000;
+}
+#context-menu.visible {
+    display: block;
+}
